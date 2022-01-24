@@ -16,3 +16,7 @@ end
 5. Choose the color u want to use
 6. Change the RGB with R,G,B
 JOIN MY DISCORD FOR SUPPORT >> https://discord.gg/HNGzszZVK8
+
+HOW TO INSTALL?
+1. add folder "pika_waypoint" into your resources folder
+2. type "ensure pika_waypoint" into your CFG file.
